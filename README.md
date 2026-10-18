@@ -36,6 +36,11 @@
 
 下载数据后，请将 `train.csv` 放置在 Notebook 的同一工作目录下再运行。
 
+## 说明
+
+本仓库为学术项目的公开展示版本，仅用于学习和作品集展示，不构成投资或信贷建议。
+
+
 # Stock Pledge Default Prediction
 
 Team machine-learning project for predicting listed-company stock-pledge defaults from financial and operational indicators.
@@ -76,10 +81,4 @@ The raw dataset is come from Kaggle. https://www.kaggle.com/datasets/jiaoyouzhan
 
 This repository is a public presentation of academic project. The analysis is for educational and portfolio purposes only and is not investment or credit advice.
 
-
-
-
-## 说明
-
-本仓库为学术项目的公开展示版本，仅用于学习和作品集展示，不构成投资或信贷建议。
 
