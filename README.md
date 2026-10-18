@@ -32,7 +32,7 @@ Predicted default probabilities can support tiered screening: companies above a 
 
 ## Data
 
-The raw dataset is not included in this repository. Obtain the source data from the original Kaggle dataset and place `train.csv` in the same working directory as the notebook before running it.
+The raw dataset is come from Kaggle. https://www.kaggle.com/datasets/jiaoyouzhang/stock-pledge-defaults-prediction Obtain the source data from the original Kaggle dataset and place `train.csv` in the same working directory as the notebook before running it.
 
 ## Note
 
